@@ -7,23 +7,26 @@
   <header>
     <nav class="navbar">
       <div class="container">
-        <div class="row">
+        <div class="row justify-content-between">
 
           <div class="col">
             <img src="./assets/img/dc-logo.png" alt="">
           </div>
 
           <div class="col">
-            <a href="#">CHARACTERS</a>
-            <a href="#">CHARACTERS</a>
-            <a href="#">CHARACTERS</a>
-            <a href="#">CHARACTERS</a>
-            <a href="#">CHARACTERS</a>
-            <a href="#">CHARACTERS</a>
-            <a href="#">CHARACTERS</a>
-            <a href="#">CHARACTERS</a>
-            <a href="#">CHARACTERS</a>
-            <a href="#">CHARACTERS</a>
+            <ul>
+              <li href="#">CHARACTERS</li>
+              <li href="#">COMICS</li>
+              <li href="#">MOVIES</li>
+              <li href="#">TV</li>
+              <li href="#">GAMES</li>
+              <li href="#">COLLECTIBLES</li>
+              <li href="#">VIDEOS</li>
+              <li href="#">FANS</li>
+              <li href="#">NEWS</li>
+              <li href="#">CHARACTERS</li>
+
+            </ul>
           </div>
 
         </div>
@@ -43,6 +46,6 @@
 
 </template>
 
-<style>
+<style lang="scss" scoped>
 
 </style>
