@@ -1,0 +1,20 @@
+.content-here {
+    color: white;
+  }
+  
+  .bg-buy {
+    background-color: #154bb1;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .comics {
+    align-items: center;
+    img {
+      height: 60px;
+    }
+    
+    p {
+      padding-left: 0.6rem;
+    }
+}
