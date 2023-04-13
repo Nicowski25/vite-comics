@@ -2,10 +2,22 @@
     background-image: url('/src/assets/img/footer-bg.jpg');
     background-repeat: no-repeat;
     position: relative;
-  }
+    
+    li {
+      font-size: 0.8rem;
+      color: rgb(122, 122, 122);
+    }
+    
+    .list-title {
+      color: white;
+      font-size: 1.3rem;
+      font-weight: 1000;
+    }
+}
   
-  .logo-behind {
+.logo-behind {
     position: absolute;
     width: 450px;
     top: -40px;
 }
+

@@ -15,7 +15,7 @@
         <div class="col-2">
 
           <ul class="ls-none">
-            <li>DC COMICS</li>
+            <li class="list-title">DC COMICS</li>
             <li>Characters</li>
             <li>Comics</li>
             <li>Movies</li>
@@ -26,7 +26,7 @@
           </ul>
 
           <ul class="ls-none">
-            <li>SHOP</li>
+            <li class="list-title">SHOP</li>
             <li>Shop Dc</li>
             <li>Shop Dc Collectibles</li>
           </ul>
@@ -35,7 +35,7 @@
 
         <div class="col-2">
           <ul class="ls-none">
-            <li>DC</li>
+            <li class="list-title">DC</li>
             <li>Terms Of Use</li>
             <li>Privacy policy</li>
             <li>Ad Choices</li>
@@ -52,7 +52,7 @@
 
         <div class="col-2">
           <ul class="ls-none">
-            <li>SITES</li>
+            <li class="list-title">SITES</li>
             <li>DC</li>
             <li>MAD Magazine</li>
             <li>DC Kids</li>

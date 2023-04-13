@@ -2,17 +2,22 @@
     background-color: #303030;
     position: relative;
     z-index: 1;
-  }
+
+    li {
+      padding-right: 1rem;
+    }
+}
   
-  .signup-btn {
+.signup-btn {
     color: white;
     background-color: #303030;
     padding: 0.5rem 1rem;
     border: 2px solid #154bb1;
-  }
+}
   
-  .followus {
+.followus {
     font-weight: 700;
     font-size: 1.5rem;
     color: #154bb1;
-  }
+    margin: 0;
+}

@@ -17,21 +17,21 @@
     </div>
     <div class="col d-flex align-items-center justify-content-end">
       <h3 class="px-4 followus">FOLLOW US</h3>
-      <ul class="ls-none d-flex">
+      <ul class="ls-none d-flex m-0">
         <li>
-          <img src="./assets/img/footer-facebook.png" alt="">
+          <img src="../assets/img/footer-facebook.png" alt="">
         </li>
         <li>
-          <img src="./assets/img/footer-twitter.png" alt="">
+          <img src="../assets/img/footer-twitter.png" alt="">
         </li>
         <li>
-          <img src="./assets/img/footer-youtube.png" alt="">
+          <img src="../assets/img/footer-youtube.png" alt="">
         </li>
         <li>
-          <img src="./assets/img/footer-pinterest.png" alt="">
+          <img src="../assets/img/footer-pinterest.png" alt="">
         </li>
         <li>
-          <img src="./assets/img/footer-periscope.png" alt="">
+          <img src="../assets/img/footer-periscope.png" alt="">
         </li>
       </ul>
     </div>
