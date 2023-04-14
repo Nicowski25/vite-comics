@@ -18,7 +18,7 @@
           </div>
 
           <div class="col">
-            <ul class="d-flex ls-none">
+            <ul class="d-flex ls-none m-0">
               <li href="#">CHARACTERS</li>
               <li href="#">COMICS</li>
               <li href="#">MOVIES</li>

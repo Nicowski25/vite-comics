@@ -1,5 +1,7 @@
+@use './variables' as *;
+
 .footerbottom {
-    background-color: #303030;
+    background-color: $darker;
     position: relative;
     z-index: 1;
 
@@ -10,14 +12,14 @@
   
 .signup-btn {
     color: white;
-    background-color: #303030;
+    background-color: $darker;
     padding: 0.5rem 1rem;
-    border: 2px solid #154bb1;
+    border: 2px solid $primary;
 }
   
 .followus {
     font-weight: 700;
     font-size: 1.5rem;
-    color: #154bb1;
+    color: $primary;
     margin: 0;
 }

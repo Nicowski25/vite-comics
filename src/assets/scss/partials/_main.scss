@@ -1,9 +1,11 @@
+@use './variables' as *;
+
 .content-here {
-    color: white;
+    color: $light;
   }
   
   .bg-buy {
-    background-color: #154bb1;
+    background-color: $primary;
     position: relative;
     z-index: 1;
   }
