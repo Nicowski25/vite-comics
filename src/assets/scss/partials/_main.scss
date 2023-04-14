@@ -2,22 +2,10 @@
 
 .content-here {
     color: $light;
-  }
+}
   
-  .bg-buy {
+.bg-buy {
     background-color: $primary;
     position: relative;
     z-index: 1;
-  }
-  
-  .comics {
-    align-items: center;
-    img {
-      height: 60px;
-    }
-    
-    p {
-      padding-left: 0.6rem;
-      margin: 0;
-    }
 }
