@@ -1,22 +1,29 @@
 <script>
-
+import JumboTron from './JumboTron.vue';
+import ComicsSection from './ComicSection.vue';
+import comics from '../assets/dc-comics';
   export default {
     name: 'SiteMain',
+    components: {
+      JumboTron,
+      ComicsSection
+  },
+  data() {
+    return {
+      comics
+    }
   }
-
+}
 </script>
 
 <template>
 
     <main>
+      
+      <JumboTron></JumboTron>
+      <!-- Comics section -->
+      <ComicsSection :comics="comics" ></ComicsSection>
 
-    <!-- #region content -->
-        <section class="bg-black">
-        <div class="container m-auto py-4">
-            <h2 class="content-here"> -> Content goes here</h2>
-        </div>
-        </section>
-    <!-- #endregion content -->
 
     </main>
 
